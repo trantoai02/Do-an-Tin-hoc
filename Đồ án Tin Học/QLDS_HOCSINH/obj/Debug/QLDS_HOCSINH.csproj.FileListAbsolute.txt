@@ -1,0 +1,11 @@
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\bin\Debug\QLDS_HOCSINH.exe.config
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\bin\Debug\QLDS_HOCSINH.exe
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\bin\Debug\QLDS_HOCSINH.pdb
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.csprojAssemblyReference.cache
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.Properties.Resources.resources
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.csproj.GenerateResource.cache
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.csproj.CoreCompileInputs.cache
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.exe
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.pdb
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.GUI.DSHocSinhGUI.resources
+E:\hocOnline\Do an TINHOC\Đồ án Tin Học\QLDS_HOCSINH\obj\Debug\QLDS_HOCSINH.Form1.resources
